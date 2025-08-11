@@ -13,7 +13,6 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 ✅ **Sortear un amigo secreto** de forma aleatoria.  
 ✅ **Botón de reseteo** para limpiar toda la lista y el resultado.  
 
----
 
 ## Capturas de pantalla
 
@@ -28,7 +27,6 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 ### Resultado del sorteo
 <img width="1067" height="895" alt="image" src="https://github.com/user-attachments/assets/3d320fad-3de7-487f-8b5f-1203672f74ab" />
 
----
 
 ## Cómo jugar
 
@@ -37,7 +35,6 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 3. Presiona **"Sortear amigo"** para obtener un ganador al azar.
 4. Si quieres limpiar todo, presiona el botón **"🗑 Limpiar lista"**.
 
----
 
 ## Tecnologías utilizadas
 
@@ -45,7 +42,6 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 - **CSS3** → Estilos y diseño.
 - **JavaScript** → Lógica del sorteo y gestión de la lista.
 
----
 
 ## Licencia
 Este proyecto es de uso libre para fines educativos o recreativos.
