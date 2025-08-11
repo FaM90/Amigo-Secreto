@@ -1,11 +1,11 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Aplicación web sencilla para organizar un sorteo de **Amigo Secreto** entre amigos, familiares o compañeros de trabajo.  
 Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 ✅ **Agregar nombres** a la lista.  
 ✅ **Validar entradas vacías** para evitar errores.  
@@ -15,7 +15,7 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 
 ---
 
-## 📷 Capturas de pantalla
+## Capturas de pantalla
 
 ### Pantalla principal
 <img width="1190" height="843" alt="image" src="https://github.com/user-attachments/assets/06df0687-0cba-475e-95c5-a620f5af377e" />
@@ -30,7 +30,7 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 
 ---
 
-## 🚀 Cómo usarlo
+## Cómo jugar
 
 1. Escribe un nombre en el campo de texto y presiona **"Añadir"**.
 2. Agrega todos los nombres que desees.
@@ -39,7 +39,7 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **HTML5** → Estructura del proyecto.
 - **CSS3** → Estilos y diseño.
@@ -47,5 +47,5 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 
 ---
 
-## 📄 Licencia
+## Licencia
 Este proyecto es de uso libre para fines educativos o recreativos.
