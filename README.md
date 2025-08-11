@@ -33,7 +33,7 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 1. Escribe un nombre en el campo de texto y presiona **"Añadir"**.
 2. Agrega todos los nombres que desees.
 3. Presiona **"Sortear amigo"** para obtener un ganador al azar.
-4. Si quieres limpiar todo, presiona el botón **"🗑 Limpiar lista"**.
+4. Si quieres limpiar todo, presiona el botón **"Limpiar lista"**.
 
 
 ## Tecnologías utilizadas
