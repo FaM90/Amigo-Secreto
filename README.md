@@ -7,11 +7,11 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente a un ganador.
 
 ## Funcionalidades
 
-✅ **Agregar nombres** a la lista.  
-✅ **Validar entradas vacías** para evitar errores.  
-✅ **Mostrar la lista** en tiempo real.  
-✅ **Sortear un amigo secreto** de forma aleatoria.  
-✅ **Botón de reseteo** para limpiar toda la lista y el resultado.  
+ **Agregar nombres** a la lista.  
+ **Validar entradas vacías** para evitar errores.  
+ **Mostrar la lista** en tiempo real.  
+ **Sortear un amigo secreto** de forma aleatoria.  
+ **Botón de reseteo** para limpiar toda la lista y el resultado.  
 
 
 ## Capturas de pantalla
